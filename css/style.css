@@ -8,11 +8,10 @@ body {
     color: #222;
 }
 
-/* NOWOŚĆ – kontener z logo i tytułem */
 .header {
     display: flex;
-    align-items: center; /* wyrównanie pionowe */
-    gap: 10px; /* odstęp między logo a tekstem */
+    align-items: center;
+    gap: 10px;
     margin: 10px;
 }
 
@@ -20,11 +19,11 @@ body {
     width: 70px;
     height: auto;
     display: block;
-    margin: 0; /* usuwamy wcześniejszy margines */
+    margin: 0; 
 }
 
 h4 {
-    margin: 0; /* reset marginesu */
+    margin: 0;
     font-size: 28px;
     font-weight: 600;
     text-align: left;

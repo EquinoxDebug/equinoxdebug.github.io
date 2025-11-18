@@ -11,10 +11,10 @@ body {
 .logo {
     width: 70px;
     height: auto;
-    position: left;
-    top: 10px;
-    left: 10px;
+    display: block;
+    margin: 10px;
 }
+
 
 h3 {
     margin-top: 100px;
